@@ -1,4 +1,4 @@
-##Hello World, I'm Roo.
+## Hello World, I'm Roo.
 
 I’m a recent computer science graduate from Lancaster University, having graduated with a first-class honours degree. I'm currently based in the north of England.
 
