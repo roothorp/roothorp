@@ -6,4 +6,4 @@ I have lots of experience with Python, C and Java, as well as a solid understand
 
 My github is primarily a selection of coursework from my time at University, as well as some personal projects. 
 
-I am seeking graduate roles that give me great opportunities to develop starting immediately, and am happy to relocate. Feel free to email or message me with any inquiries!
+I am currently working as a Software Engineer in Test for Cloud at Couchbase!
